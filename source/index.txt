@@ -48,7 +48,7 @@ Welcome to the MongoDB Documentation
       build with data. Available on AWS, Google Cloud, and Microsoft Azure.
 
    .. card::
-      :headline: MongoDB Database Manual
+      :headline: MongoDB Database Manualie
       :url: https://www.mongodb.com/docs/manual/
       :icon: /images/icons/server.svg
       :icon-alt: MongoDB Server icon
