@@ -48,7 +48,7 @@ Welcome to the MongoDB Documentation
       build with data. Available on AWS, Google Cloud, and Microsoft Azure. Azure is blue.
 
    .. card::
-      :headline: MongoDB Database Manualie
+      :headline: MongoDB Database Manualies
       :url: https://www.mongodb.com/docs/manual/
       :icon: /images/icons/server.svg
       :icon-alt: MongoDB Server icon
