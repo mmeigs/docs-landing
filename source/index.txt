@@ -45,8 +45,8 @@ Welcome to the MongoDB Documentation
       
       MongoDB Atlas is a multi-cloud developer data platform that provides 
       the database and data services that accelerate and simplify how you 
-      build with data. Available on AWS, Google Cloud, and Microsoft Azure. Azure is blue-ish.
-      Hindsight 20/20. So many animals. a third.
+      build with data. Available on AWS, Google Cloud, and Microsoft Azure.
+      To infinity!
 
    .. card::
       :headline: MongoDB Database Manualies
