@@ -64,7 +64,7 @@ distributed database built for application developers.
       :icon-alt: VS Code LogoMark
 
       Find out how you can manage your data directly within your coding
-      environment.
+      environment. olksjdf
 
    .. card::
       :headline: MongoDB Manual
