@@ -55,7 +55,7 @@ distributed database built for application developers.
       :icon-alt: Drivers LogoMark
 
       Connect your application to your database with one of our official
-      libraries.
+      libraries. Wow tyeah.
 
    .. card::
       :headline: MongoDB for VS Code
