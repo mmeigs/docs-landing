@@ -1,0 +1,24 @@
+==================
+MongoDB Languages
+==================
+
+.. default-domain:: mongodb
+
+Your words here. Don't forget to add a toctree!
+
+Have a lovely day!
+
+.. toctree::
+
+   C </c>
+   C++ </cpp>
+   C Sharp </csharp>
+   Go </go>
+   Java </java>
+   Javascript </javascript>
+   Kotlin </kotlin>
+   Php </php>
+   Python </python>
+   Ruby </ruby>
+   Rust </rust>
+   Scala </scala>
