@@ -1,5 +1,5 @@
 ==================
-Pymongo
+Python
 ==================
 
 .. default-domain:: mongodb
