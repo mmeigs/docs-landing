@@ -1,0 +1,7 @@
+==================
+Javascript
+==================
+
+.. default-domain:: mongodb
+
+NEW text...
