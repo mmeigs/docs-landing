@@ -15,7 +15,7 @@ MongoDB Documentation
 
 .. introduction::
 
-   Welcome to the official MongoDB Documentation. 
+   Welcome to the official MongoDB-dark Documentation. 
    Whether you're a developer, database administrator, 
    or just starting your journey with MongoDB, our 
    documentation provides you with the information and 
